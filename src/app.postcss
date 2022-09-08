@@ -1,0 +1,137 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { @apply bg-fixed bg-contain bg-[url('/cover.png')]}
+
+@import url('/fonts/stylesheet.css')
+
+/* --- Typography --- */
+
+/* Headings */
+h1 {
+	@apply text-4xl md:text-6xl font-bold;
+}
+h2 {
+	@apply text-3xl md:text-4xl font-bold;
+}
+h3 {
+	@apply text-2xl md:text-3xl font-bold;
+}
+h4 {
+	@apply text-xl md:text-2xl font-bold;
+}
+h5 {
+	@apply text-lg md:text-xl font-bold;
+}
+h6 {
+	@apply text-base md:text-lg font-bold;
+}
+
+/* Inputs */
+[type="text"],
+[type="email"],
+[type="url"],
+[type="password"],
+[type="number"],
+[type="date"],
+[type="datetime-local"], 
+[type="month"],
+[type="search"],
+[type="tel"],
+[type="time"],
+[type="week"],
+[multiple],
+textarea,
+select {
+    @apply w-full text-black bg-slate-200 border-slate-300 rounded-lg shadow-lg focus:border-primary-500 focus:ring-primary-500;
+}
+
+/* Selectable */
+[type="checkbox"],
+[type="radio"] {
+    @apply border-surface-500 rounded text-accent-600 focus:ring-accent-500;
+}
+
+/* Invalid - https://www.bram.us/2021/01/28/form-validation-you-want-notfocusinvalid-not-invalid/ */
+input:not(:focus):not(:placeholder-shown):invalid {
+    @apply bg-warning-300 border-warning-500;
+}
+
+/* Placeholders */
+input::-moz-placeholder, textarea::-moz-placeholder { @apply text-primary-400; }
+input:-ms-input-placeholder, textarea:-ms-input-placeholder { @apply text-primary-400; }
+input::placeholder, textarea::placeholder { @apply text-primary-400; }
+
+/* Labels */
+label { @apply block overflow-visible; }
+label span, legend { @apply block text-surface-700 dark:text-surface-300 text-sm mb-2; }
+
+/* Accent Color - https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color */
+[type="range"]:not(.range-input) { @apply w-full accent-accent-500; }
+
+@layer utilities {
+    @variants responsive {
+        .text-shadow {
+          text-shadow: 2px 2px 4px black;
+        }
+        .text-shadow-md {
+          text-shadow: 4px 4px 8px black;
+        }
+        .text-shadow-lg {
+          text-shadow: 15px 15px 30px black;
+        }
+        .text-shadow-none {
+          text-shadow: none;
+        }
+    } 
+}
+
+:root {
+	/* --- Custom Hex Theme --- */
+	/* primary (#b99f65) */
+	--color-primary-50: 252 251 248;
+	--color-primary-100: 247 244 237;
+	--color-primary-200: 239 233 220;
+	--color-primary-300: 227 215 192;
+	--color-primary-400: 198 176 128;
+	--color-primary-500: 162 134 73;
+	--color-primary-600: 116 96 52;
+	--color-primary-700: 84 70 38;
+	--color-primary-800: 49 41 22;
+	--color-primary-900: 25 20 11;
+	/* accent (#ccdd2a) */
+	--color-accent-50: 253 254 246;
+	--color-accent-100: 250 251 233;
+	--color-accent-200: 244 248 211;
+	--color-accent-300: 236 242 176;
+	--color-accent-400: 216 229 97;
+	--color-accent-500: 185 202 33;
+	--color-accent-600: 133 145 24;
+	--color-accent-700: 96 105 17;
+	--color-accent-800: 56 61 10;
+	--color-accent-900: 28 31 5;
+	/* warning (#f43f5e) */
+	--color-warning-50: 254 245 247;
+	--color-warning-100: 254 231 235;
+	--color-warning-200: 252 207 214;
+	--color-warning-300: 250 168 182;
+	--color-warning-400: 245 81 109;
+	--color-warning-500: 222 13 48;
+	--color-warning-600: 159 9 34;
+	--color-warning-700: 116 7 25;
+	--color-warning-800: 67 4 15;
+	--color-warning-900: 34 2 7;
+	/* surface (#1fa627) */
+	--color-surface-50: 246 253 247;
+	--color-surface-100: 233 251 235;
+	--color-surface-200: 212 247 214;
+	--color-surface-300: 177 241 182;
+	--color-surface-400: 100 227 108;
+	--color-surface-500: 36 198 47;
+	--color-surface-600: 26 142 34;
+	--color-surface-700: 19 103 25;
+	--color-surface-800: 11 60 14;
+	--color-surface-900: 6 30 7;
+}

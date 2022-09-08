@@ -1,0 +1,3639 @@
+{
+    "locations": [
+        {
+            "hash": "U2FoYXNyYWhsYSdzIEh1dCAtIExlZnQ6MQ==",
+            "name": "Sahasrahla's Hut - Left:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/SahasrahlasHut.png",
+            "tags": ["saha's", "closet"]
+        },
+        {
+            "hash": "U2FoYXNyYWhsYSdzIEh1dCAtIE1pZGRsZTox",
+            "name": "Sahasrahla's Hut - Middle:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/SahasrahlasHut.png",
+            "tags": ["saha's", "closet"]
+        },
+        {
+            "hash": "U2FoYXNyYWhsYSdzIEh1dCAtIFJpZ2h0OjE=",
+            "name": "Sahasrahla's Hut - Right:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/SahasrahlasHut.png",
+            "tags": ["saha's", "closet"]
+        },
+        {
+            "hash": "U2FoYXNyYWhsYTox",
+            "name": "Sahasrahla:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/Sahasrahla.png",
+            "tags": ["green", "pendant"]
+        },
+        {
+            "hash": "S2luZyBab3JhOjE=",
+            "name": "King Zora:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/KingZora.png",
+            "tags": ["scam", "fish"]
+        },
+        {
+            "hash": "UG90aW9uIFNob3A6MQ==",
+            "name": "Potion Shop:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/PotionShop.png",
+            "tags": ["witch", "mushroom", "powder"]
+        },
+        {
+            "hash": "Wm9yYSdzIExlZGdlOjE=",
+            "name": "Zora Ledge:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/ZorasLedge.png",
+            "tags": []
+        },
+        {
+            "hash": "V2F0ZXJmYWxsIEZhaXJ5IC0gTGVmdDox",
+            "name": "Waterfall Fairy - Left:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/WaterfallFairy.png",
+            "tags": ["wishing"]
+        },
+        {
+            "hash": "V2F0ZXJmYWxsIEZhaXJ5IC0gUmlnaHQ6MQ==",
+            "name": "Waterfall Fairy - Right:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/WaterfallFairy.png",
+            "tags": ["wishing"]
+        },
+        {
+            "hash": "TWFzdGVyIFN3b3JkIFBlZGVzdGFsOjE=",
+            "name": "Master Sword Pedestal:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/MasterSwordPedestal.png",
+            "tags": ["twitch", "chat"]
+        },
+        {
+            "hash": "S2luZydzIFRvbWI6MQ==",
+            "name": "King's Tomb:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/KingsTomb.png",
+            "tags": ["kt"]
+        },
+        {
+            "hash": "S2FrYXJpa28gVGF2ZXJuOjE=",
+            "name": "Kakariko Tavern:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/KakarikoTavern.png",
+            "tags": ["bar"]
+        },
+        {
+            "hash": "Q2hpY2tlbiBIb3VzZTox",
+            "name": "Chicken House:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/ChickenHouse.png",
+            "tags": ["hut"]
+        },
+        {
+            "hash": "S2FrYXJpa28gV2VsbCAtIFRvcDox",
+            "name": "Kakariko Well - Top:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/KakarikoWell.png",
+            "tags": []
+        },
+        {
+            "hash": "S2FrYXJpa28gV2VsbCAtIExlZnQ6MQ==",
+            "name": "Kakariko Well - Left:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/KakarikoWell.png",
+            "tags": []
+        },
+        {
+            "hash": "S2FrYXJpa28gV2VsbCAtIE1pZGRsZTox",
+            "name": "Kakariko Well - Middle:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/KakarikoWell.png",
+            "tags": []
+        },
+        {
+            "hash": "S2FrYXJpa28gV2VsbCAtIFJpZ2h0OjE=",
+            "name": "Kakariko Well - Right:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/KakarikoWell.png",
+            "tags": []
+        },
+        {
+            "hash": "S2FrYXJpa28gV2VsbCAtIEJvdHRvbTox",
+            "name": "Kakariko Well - Bottom:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/KakarikoWell.png",
+            "tags": []
+        },
+        {
+            "hash": "QmxpbmQncyBIaWRlb3V0IC0gVG9wOjE=",
+            "name": "Blind's Hideout - Top:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/BlindsHideout.png",
+            "tags": ["hut"]
+        },
+        {
+            "hash": "QmxpbmQncyBIaWRlb3V0IC0gTGVmdDox",
+            "name": "Blind's Hideout - Left:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/BlindsHideout.png",
+            "tags": ["hut"]
+        },
+        {
+            "hash": "QmxpbmQncyBIaWRlb3V0IC0gUmlnaHQ6MQ==",
+            "name": "Blind's Hideout - Right:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/BlindsHideout.png",
+            "tags": ["hut"]
+        },
+        {
+            "hash": "QmxpbmQncyBIaWRlb3V0IC0gRmFyIExlZnQ6MQ==",
+            "name": "Blind's Hideout - Far Left:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/BlindsHideout.png",
+            "tags": ["hut"]
+        },
+        {
+            "hash": "QmxpbmQncyBIaWRlb3V0IC0gRmFyIFJpZ2h0OjE=",
+            "name": "Blind's Hideout - Far Right:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/BlindsHideout.png",
+            "tags": ["hut"]
+        },
+        {
+            "hash": "UGVnYXN1cyBSb2Nrczox",
+            "name": "Pegasus Rocks:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/PegasusRocks.png",
+            "tags": ["bonk"]
+        },
+        {
+            "hash": "Qm90dGxlIE1lcmNoYW50OjE=",
+            "name": "Bottle Merchant:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/BottleMerchant.png",
+            "tags": ["vendor"]
+        },
+        {
+            "hash": "TWFnaWMgQmF0OjE=",
+            "name": "Magic Bat:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/MagicBat.png",
+            "tags": ["batter", "mad"]
+        },
+        {
+            "hash": "U2ljayBLaWQ6MQ==",
+            "name": "Sick Kid:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/SickKid.png",
+            "tags": ["lazy", "lazykid", "bug catching"]
+        },
+        {
+            "hash": "TG9zdCBXb29kcyBIaWRlb3V0OjE=",
+            "name": "Lost Woods Hideout:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/LostWoodsHideout.png",
+            "tags": ["dropdown"]
+        },
+        {
+            "hash": "THVtYmVyamFjayBUcmVlOjE=",
+            "name": "Lumberjack Tree:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/LumberjackTree.png",
+            "tags": ["lj"]
+        },
+        {
+            "hash": "R3JhdmV5YXJkIExlZGdlOjE=",
+            "name": "Graveyard Ledge:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/GraveyardLedge.png",
+            "tags": ["gyl"]
+        },
+        {
+            "hash": "TXVzaHJvb206MQ==",
+            "name": "Mushroom:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/Mushroom.png",
+            "tags": []
+        },
+        {
+            "hash": "Rmxvb2RnYXRlIENoZXN0OjE=",
+            "name": "Floodgate Chest:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/Dam.png",
+            "tags": ["dam"]
+        },
+        {
+            "hash": "TGluaydzIEhvdXNlOjE=",
+            "name": "Link's House:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/LinksHouse.png",
+            "tags": []
+        },
+        {
+            "hash": "QWdpbmFoJ3MgQ2F2ZTox",
+            "name": "Aginah's Cave:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/AginahsCave.png",
+            "tags": ["fart"]
+        },
+        {
+            "hash": "TWluaSBNb2xkb3JtIENhdmUgLSBGYXIgTGVmdDox",
+            "name": "Minimoldorm Cave - Far Left:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/MiniMoldormCave.png",
+            "tags": ["mmc"]
+        },
+        {
+            "hash": "TWluaSBNb2xkb3JtIENhdmUgLSBMZWZ0OjE=",
+            "name": "Minimoldorm Cave - Left:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/MiniMoldormCave.png",
+            "tags": ["mmc"]
+        },
+        {
+            "hash": "TWluaSBNb2xkb3JtIENhdmUgLSBSaWdodDox",
+            "name": "Minimoldorm Cave - Right:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/MiniMoldormCave.png",
+            "tags": ["mmc"]
+        },
+        {
+            "hash": "TWluaSBNb2xkb3JtIENhdmUgLSBGYXIgUmlnaHQ6MQ==",
+            "name": "Minimoldorm Cave - Far Right:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/MiniMoldormCave.png",
+            "tags": ["mmc"]
+        },
+        {
+            "hash": "SWNlIFJvZCBDYXZlOjE=",
+            "name": "Ice Rod Cave:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/IceRodCave.png",
+            "tags": ["irc"]
+        },
+        {
+            "hash": "SG9ibzox",
+            "name": "Hobo:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/Bridge.png",
+            "tags": ["bridge", "camper"]
+        },
+        {
+            "hash": "Qm9tYm9zIFRhYmxldDox",
+            "name": "Bombos Tablet:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/BombosTablet.png",
+            "tags": []
+        },
+        {
+            "hash": "Q2F2ZSA0NTox",
+            "name": "Cave 45:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/Cave45.png",
+            "tags": ["south","of","grove"]
+        },
+        {
+            "hash": "Q2hlY2tlcmJvYXJkIENhdmU6MQ==",
+            "name": "Checkerboard Cave:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/CheckerboardCave.png",
+            "tags": []
+        },
+        {
+            "hash": "TWluaSBNb2xkb3JtIENhdmUgLSBOUEM6MQ==",
+            "name": "Minimoldorm Cave - NPC:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/MiniMoldormCave.png",
+            "tags": ["mmc"]
+        },
+        {
+            "hash": "TGlicmFyeTox",
+            "name": "Library:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/Library.png",
+            "tags": []
+        },
+        {
+            "hash": "TWF6ZSBSYWNlOjE=",
+            "name": "Maze Race:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/RaceGame.png",
+            "tags": ["game"]
+        },
+        {
+            "hash": "RGVzZXJ0IExlZGdlOjE=",
+            "name": "Desert Ledge:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/DesertLedge.png",
+            "tags": []
+        },
+        {
+            "hash": "TGFrZSBIeWxpYSBJc2xhbmQ6MQ==",
+            "name": "Lake Hylia Island:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/LakeHyliaIsland.png",
+            "tags": []
+        },
+        {
+            "hash": "U3Vua2VuIFRyZWFzdXJlOjE=",
+            "name": "Sunken Treasure:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/Dam.png",
+            "tags": ["dam"]
+        },
+        {
+            "hash": "Rmx1dGUgU3BvdDox",
+            "name": "Flute Spot:1",
+            "region": "Light World",
+            "class": "items",
+            "image": "images/LightWorld/FluteSpot.png",
+            "tags": ["dig", "shovel"]
+        },
+        {
+            "hash": "U2FuY3R1YXJ5OjE=",
+            "name": "Sanctuary:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/HyruleCastle/Sanctuary.png",
+            "tags": ["priest"]
+        },
+        {
+            "hash": "U2V3ZXJzIC0gU2VjcmV0IFJvb20gLSBMZWZ0OjE=",
+            "name": "Sewers - Secret Room - Left:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/HyruleCastle/SewersSecretRoom.png",
+            "tags": ["back", "of", "escape"]
+        },
+        {
+            "hash": "U2V3ZXJzIC0gU2VjcmV0IFJvb20gLSBNaWRkbGU6MQ==",
+            "name": "Sewers - Secret Room - Middle:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/HyruleCastle/SewersSecretRoom.png",
+            "tags": ["back", "of", "escape"]
+        },
+        {
+            "hash": "U2V3ZXJzIC0gU2VjcmV0IFJvb20gLSBSaWdodDox",
+            "name": "Sewers - Secret Room - Right:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/HyruleCastle/SewersSecretRoom.png",
+            "tags": ["back", "of", "escape"]
+        },
+        {
+            "hash": "U2V3ZXJzIC0gRGFyayBDcm9zczox",
+            "name": "Sewers - Dark Cross:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/HyruleCastle/SewersDarkCross.png",
+            "tags": []
+        },
+        {
+            "hash": "SHlydWxlIENhc3RsZSAtIEJvb21lcmFuZyBDaGVzdDox",
+            "name": "Hyrule Castle - Boomerang Chest:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/HyruleCastle/BoomerangChest.png",
+            "tags": []
+        },
+        {
+            "hash": "SHlydWxlIENhc3RsZSAtIE1hcCBDaGVzdDox",
+            "name": "Hyrule Castle - Map Chest:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/HyruleCastle/MapChest.png",
+            "tags": []
+        },
+        {
+            "hash": "SHlydWxlIENhc3RsZSAtIFplbGRhJ3MgQ2VsbDox",
+            "name": "Hyrule Castle - Zelda's Cell:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/HyruleCastle/ZeldasCell.png",
+            "tags": []
+        },
+        {
+            "hash": "TGluaydzIFVuY2xlOjE=",
+            "name": "Link's Uncle:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/LightWorld/LinksUncle.png",
+            "tags": []
+        },
+        {
+            "hash": "U2VjcmV0IFBhc3NhZ2U6MQ==",
+            "name": "Secret Passage:1",
+            "region": "Hyrule Castle",
+            "class": "items",
+            "image": "images/LightWorld/LinksUncle.png",
+            "tags": ["uncle", "chest"]
+        },
+        {
+            "hash": "RWFzdGVybiBQYWxhY2UgLSBDb21wYXNzIENoZXN0OjE=",
+            "name": "Eastern Palace - Compass Chest:1",
+            "region": "Eastern Palace",
+            "class": "items",
+            "image": "images/EasternPalace/CompassChest.png",
+            "tags": []
+        },
+        {
+            "hash": "RWFzdGVybiBQYWxhY2UgLSBCaWcgQ2hlc3Q6MQ==",
+            "name": "Eastern Palace - Big Chest:1",
+            "region": "Eastern Palace",
+            "class": "items",
+            "image": "images/EasternPalace/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "RWFzdGVybiBQYWxhY2UgLSBDYW5ub25iYWxsIENoZXN0OjE=",
+            "name": "Eastern Palace - Canonball Chest:1",
+            "region": "Eastern Palace",
+            "class": "items",
+            "image": "images/EasternPalace/CanonballChest.png",
+            "tags": ["cannon", "ball"]
+        },
+        {
+            "hash": "RWFzdGVybiBQYWxhY2UgLSBCaWcgS2V5IENoZXN0OjE=",
+            "name": "Eastern Palace - Big Key Chest:1",
+            "region": "Eastern Palace",
+            "class": "items",
+            "image": "images/EasternPalace/BigKeyChest.png",
+            "tags": []
+        },
+        {
+            "hash": "RWFzdGVybiBQYWxhY2UgLSBNYXAgQ2hlc3Q6MQ==",
+            "name": "Eastern Palace - Map Chest:1",
+            "region": "Eastern Palace",
+            "class": "items",
+            "image": "images/EasternPalace/MapChest.png",
+            "tags": []
+        },
+        {
+            "hash": "RWFzdGVybiBQYWxhY2UgLSBCb3NzOjE=",
+            "name": "Eastern Palace - Boss:1",
+            "region": "Eastern Palace",
+            "class": "items",
+            "image": "images/EasternPalace/Boss.png",
+            "tags": ["armos", "knights"]
+        },
+        {
+            "hash": "RWFzdGVybiBQYWxhY2UgLSBQcml6ZTox",
+            "name": "Eastern Palace - Prize:1",
+            "region": "Eastern Palace",
+            "class": "prizes"
+        },
+        {
+            "hash": "RGVzZXJ0IFBhbGFjZSAtIEJpZyBDaGVzdDox",
+            "name": "Desert Palace - Big Chest:1",
+            "region": "Desert Palace",
+            "class": "items",
+            "image": "images/DesertPalace/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "RGVzZXJ0IFBhbGFjZSAtIE1hcCBDaGVzdDox",
+            "name": "Desert Palace - Map Chest:1",
+            "region": "Desert Palace",
+            "class": "items",
+            "image": "images/DesertPalace/MapChest.png",
+            "tags": []
+        },
+        {
+            "hash": "RGVzZXJ0IFBhbGFjZSAtIFRvcmNoOjE=",
+            "name": "Desert Palace - Torch:1",
+            "region": "Desert Palace",
+            "class": "items",
+            "image": "images/DesertPalace/Torch.png",
+            "tags": []
+        },
+        {
+            "hash": "RGVzZXJ0IFBhbGFjZSAtIEJpZyBLZXkgQ2hlc3Q6MQ==",
+            "name": "Desert Palace - Big Key Chest:1",
+            "region": "Desert Palace",
+            "class": "items",
+            "image": "images/DesertPalace/BigKeyChest.png",
+            "tags": []
+        },
+        {
+            "hash": "RGVzZXJ0IFBhbGFjZSAtIENvbXBhc3MgQ2hlc3Q6MQ==",
+            "name": "Desert Palace - Compass Chest:1",
+            "region": "Desert Palace",
+            "class": "items",
+            "image": "images/DesertPalace/CompassChest.png",
+            "tags": []
+        },
+        {
+            "hash": "RGVzZXJ0IFBhbGFjZSAtIEJvc3M6MQ==",
+            "name": "Desert Palace - Boss:1",
+            "region": "Desert Palace",
+            "class": "items",
+            "image": "images/DesertPalace/Boss.png",
+            "tags": ["lanmolas"]
+        },
+        {
+            "hash": "RGVzZXJ0IFBhbGFjZSAtIFByaXplOjE=",
+            "name": "Desert Palace - Prize:1",
+            "region": "Desert Palace",
+            "class": "prizes"
+        },
+        {
+            "hash": "T2xkIE1hbjox",
+            "name": "Old Man:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/OldMan.png",
+            "tags": ["gary"]
+        },
+        {
+            "hash": "U3BlY3RhY2xlIFJvY2sgQ2F2ZTox",
+            "name": "Spectacle Rock Cave:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/SpectacleRockCave.png",
+            "tags": ["nilsson", "alex", "nissan"]
+        },
+        {
+            "hash": "RXRoZXIgVGFibGV0OjE=",
+            "name": "Ether Tablet:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/EtherTablet.png",
+            "tags": []
+        },
+        {
+            "hash": "U3BlY3RhY2xlIFJvY2s6MQ==",
+            "name": "Spectacle Rock:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/SpectacleRock.png",
+            "tags": []
+        },
+        {
+            "hash": "U3BpcmFsIENhdmU6MQ==",
+            "name": "Spiral Cave:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/SpiralCave.png",
+            "tags": []
+        },
+        {
+            "hash": "TWltaWMgQ2F2ZTox",
+            "name": "Mimic Cave:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/MimicCave.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFyYWRveCBDYXZlIExvd2VyIC0gRmFyIExlZnQ6MQ==",
+            "name": "Paradox Cave Lower - Far Left:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/ParadoxCave5.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFyYWRveCBDYXZlIExvd2VyIC0gTGVmdDox",
+            "name": "Paradox Cave Lower - Left:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/ParadoxCave5.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFyYWRveCBDYXZlIExvd2VyIC0gUmlnaHQ6MQ==",
+            "name": "Paradox Cave Lower - Right:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/ParadoxCave5.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFyYWRveCBDYXZlIExvd2VyIC0gRmFyIFJpZ2h0OjE=",
+            "name": "Paradox Cave Lower - Far Right:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/ParadoxCave5.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFyYWRveCBDYXZlIExvd2VyIC0gTWlkZGxlOjE=",
+            "name": "Paradox Cave Lower - Middle:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/ParadoxCave5.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFyYWRveCBDYXZlIFVwcGVyIC0gTGVmdDox",
+            "name": "Paradox Cave Upper - Left:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/ParadoxCave2.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFyYWRveCBDYXZlIFVwcGVyIC0gUmlnaHQ6MQ==",
+            "name": "Paradox Cave Upper - Right:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/ParadoxCave2.png",
+            "tags": []
+        },
+        {
+            "hash": "RmxvYXRpbmcgSXNsYW5kOjE=",
+            "name": "Floating Island:1",
+            "region": "Death Mountain",
+            "class": "items",
+            "image": "images/LightWorld/DeathMountain/FloatingIsland.png",
+            "tags": []
+        },
+        {
+            "hash": "VG93ZXIgb2YgSGVyYSAtIEJpZyBLZXkgQ2hlc3Q6MQ==",
+            "name": "Tower of Hera - Big Key Chest:1",
+            "region": "Tower Of Hera",
+            "class": "items",
+            "image": "images/TowerOfHera/BigKeyChest.png",
+            "tags": ["tile", "room"]
+        },
+        {
+            "hash": "VG93ZXIgb2YgSGVyYSAtIEJhc2VtZW50IENhZ2U6MQ==",
+            "name": "Tower of Hera - Basement Cage:1",
+            "region": "Tower Of Hera",
+            "class": "items",
+            "image": "images/TowerOfHera/BasementCage.png",
+            "tags": []
+        },
+        {
+            "hash": "VG93ZXIgb2YgSGVyYSAtIE1hcCBDaGVzdDox",
+            "name": "Tower of Hera - Map Chest:1",
+            "region": "Tower Of Hera",
+            "class": "items",
+            "image": "images/TowerOfHera/MapChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VG93ZXIgb2YgSGVyYSAtIENvbXBhc3MgQ2hlc3Q6MQ==",
+            "name": "Tower of Hera - Compass Chest:1",
+            "region": "Tower Of Hera",
+            "class": "items",
+            "image": "images/TowerOfHera/CompassChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VG93ZXIgb2YgSGVyYSAtIEJpZyBDaGVzdDox",
+            "name": "Tower of Hera - Big Chest:1",
+            "region": "Tower Of Hera",
+            "class": "items",
+            "image": "images/TowerOfHera/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VG93ZXIgb2YgSGVyYSAtIEJvc3M6MQ==",
+            "name": "Tower of Hera - Boss:1",
+            "region": "Tower Of Hera",
+            "class": "items",
+            "image": "images/TowerOfHera/Boss.png",
+            "tags": ["moldorm"]
+        },
+        {
+            "hash": "VG93ZXIgb2YgSGVyYSAtIFByaXplOjE=",
+            "name": "Tower of Hera - Prize:1",
+            "region": "Tower Of Hera",
+            "class": "prizes"
+        },
+        {
+            "hash": "Q2FzdGxlIFRvd2VyIC0gUm9vbSAwMzox",
+            "name": "Castle Tower - Room 03:1",
+            "region": "Castle Tower",
+            "class": "items",
+            "image": "images/HyruleCastle/Room03.png"
+        },
+        {
+            "hash": "Q2FzdGxlIFRvd2VyIC0gRGFyayBNYXplOjE=",
+            "name": "Castle Tower - Dark Maze:1",
+            "region": "Castle Tower",
+            "class": "items",
+            "image": "images/HyruleCastle/DarkMaze.png"
+        },
+        {
+            "hash": "U3VwZXJidW5ueSBDYXZlIC0gVG9wOjE=",
+            "name": "Super Bunny Cave - Top:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/DeathMountain/SuperbunnyCave.png"
+        },
+        {
+            "hash": "U3VwZXJidW5ueSBDYXZlIC0gQm90dG9tOjE=",
+            "name": "Super Bunny Cave - Bottom:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/DeathMountain/SuperbunnyCave.png"
+        },
+        {
+            "hash": "SG9va3Nob3QgQ2F2ZSAtIFRvcCBSaWdodDox",
+            "name": "Hookshot Cave - Top Right:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/DeathMountain/HookshotCave2.png"
+        },
+        {
+            "hash": "SG9va3Nob3QgQ2F2ZSAtIFRvcCBMZWZ0OjE=",
+            "name": "Hookshot Cave - Top Left:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/DeathMountain/HookshotCave2.png"
+        },
+        {
+            "hash": "SG9va3Nob3QgQ2F2ZSAtIEJvdHRvbSBMZWZ0OjE=",
+            "name": "Hookshot Cave - Bottom Left:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/DeathMountain/HookshotCave2.png"
+        },
+        {
+            "hash": "SG9va3Nob3QgQ2F2ZSAtIEJvdHRvbSBSaWdodDox",
+            "name": "Hookshot Cave - Bottom Right:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/DeathMountain/HookshotCave1.png",
+            "tags": ["bonkable"]
+        },
+        {
+            "hash": "U3Bpa2UgQ2F2ZTox",
+            "name": "Spike Cave:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/DeathMountain/SpikeCave.png",
+            "tags": []
+        },
+        {
+            "hash": "Q2F0ZmlzaDox",
+            "name": "Catfish:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/Catfish.png",
+            "tags": ["scam", "quake"]
+        },
+        {
+            "hash": "UHlyYW1pZDox",
+            "name": "Pyramid:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/Pyramid.png",
+            "tags": []
+        },
+        {
+            "hash": "UHlyYW1pZCBGYWlyeSAtIExlZnQ6MQ==",
+            "name": "Pyramid Fairy - Left:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/PyramidFairy.png",
+            "tags": []
+        },
+        {
+            "hash": "UHlyYW1pZCBGYWlyeSAtIFJpZ2h0OjE=",
+            "name": "Pyramid Fairy - Right:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/PyramidFairy.png",
+            "tags": []
+        },
+        {
+            "hash": "QnJld2VyeTox",
+            "name": "Brewery:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/Brewery.png",
+            "tags": ["bombable", "hut"]
+        },
+        {
+            "hash": "Qy1TaGFwZWQgSG91c2U6MQ==",
+            "name": "C-Shaped House:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/CShapedHouse.png",
+            "tags": ["cshaped"]
+        },
+        {
+            "hash": "Q2hlc3QgR2FtZTox",
+            "name": "Chest Game:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/ChestGame.png",
+            "tags": []
+        },
+        {
+            "hash": "SGFtbWVyIFBlZ3M6MQ==",
+            "name": "Hammer Pegs:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/HammerPegs.png",
+            "tags": []
+        },
+        {
+            "hash": "QnVtcGVyIENhdmU6MQ==",
+            "name": "Bumper Cave:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/BumperCave.png",
+            "tags": []
+        },
+        {
+            "hash": "QmxhY2tzbWl0aDox",
+            "name": "Blacksmith:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/Blacksmith.png",
+            "tags": ["jeremiah"]
+        },
+        {
+            "hash": "UHVycGxlIENoZXN0OjE=",
+            "name": "Purple Chest:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/PurpleChest.png",
+            "tags": ["lunchbox"]
+        },
+        {
+            "hash": "SHlwZSBDYXZlIC0gVG9wOjE=",
+            "name": "Hype Cave - Top:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/HypeCave.png",
+            "tags": []
+        },
+        {
+            "hash": "SHlwZSBDYXZlIC0gTWlkZGxlIFJpZ2h0OjE=",
+            "name": "Hype Cave - Middle Right:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/HypeCave.png",
+            "tags": []
+        },
+        {
+            "hash": "SHlwZSBDYXZlIC0gTWlkZGxlIExlZnQ6MQ==",
+            "name": "Hype Cave - Middle Left:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/HypeCave.png",
+            "tags": []
+        },
+        {
+            "hash": "SHlwZSBDYXZlIC0gQm90dG9tOjE=",
+            "name": "Hype Cave - Bottom:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/HypeCave.png",
+            "tags": []
+        },
+        {
+            "hash": "U3R1bXB5OjE=",
+            "name": "Stumpy:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/Stumpy.png",
+            "tags": []
+        },
+        {
+            "hash": "SHlwZSBDYXZlIC0gTlBDOjE=",
+            "name": "Hype Cave - NPC:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/HypeCaveNPC.png",
+            "tags": []
+        },
+        {
+            "hash": "RGlnZ2luZyBHYW1lOjE=",
+            "name": "Digging Game:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/DiggingGame.png",
+            "tags": []
+        },
+        {
+            "hash": "TWlyZSBTaGVkIC0gTGVmdDox",
+            "name": "Mire Shed - Left:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/MireShed.png",
+            "tags": []
+        },
+        {
+            "hash": "TWlyZSBTaGVkIC0gUmlnaHQ6MQ==",
+            "name": "Mire Shed - Right:1",
+            "region": "Dark World",
+            "class": "items",
+            "image": "images/DarkWorld/MireShed.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gU2hvb3RlciBSb29tOjE=",
+            "name": "Palace of Darkness - Shooter Room:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/ShooterRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gQmlnIEtleSBDaGVzdDox",
+            "name": "Palace of Darkness - Big Key Chest:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/BigKeyChest.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gVGhlIEFyZW5hIC0gTGVkZ2U6MQ==",
+            "name": "Palace of Darkness - The Arena - Ledge:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/TheArena.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gVGhlIEFyZW5hIC0gQnJpZGdlOjE=",
+            "name": "Palace of Darkness - The Arena - Bridge:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/TheArena.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gU3RhbGZvcyBCYXNlbWVudDox",
+            "name": "Palace of Darkness - Stalfos Basement:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/StalfosBasement.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gTWFwIENoZXN0OjE=",
+            "name": "Palace of Darkness - Map Chest:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/MapChest.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gQmlnIENoZXN0OjE=",
+            "name": "Palace of Darkness - Big Chest:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gQ29tcGFzcyBDaGVzdDox",
+            "name": "Palace of Darkness - Compass Chest:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/CompassChest.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gSGFybWxlc3MgSGVsbHdheTox",
+            "name": "Palace of Darkness - Harmless Hellway:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/HarmlessHellway.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gRGFyayBCYXNlbWVudCAtIExlZnQ6MQ==",
+            "name": "Palace of Darkness - Dark Basement - Left:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/DarkBasement.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gRGFyayBCYXNlbWVudCAtIFJpZ2h0OjE=",
+            "name": "Palace of Darkness - Dark Basement - Right:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/DarkBasement.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gRGFyayBNYXplIC0gVG9wOjE=",
+            "name": "Palace of Darkness - Dark Maze - Top:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/DarkMaze.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gRGFyayBNYXplIC0gQm90dG9tOjE=",
+            "name": "Palace of Darkness - Dark Maze - Bottom:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/DarkMaze.png",
+            "tags": []
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gQm9zczox",
+            "name": "Palace of Darkness - Boss:1",
+            "region": "Dark Palace",
+            "class": "items",
+            "image": "images/PalaceOfDarkness/Boss.png",
+            "tags": ["helmasaur", "king"]
+        },
+        {
+            "hash": "UGFsYWNlIG9mIERhcmtuZXNzIC0gUHJpemU6MQ==",
+            "name": "Palace of Darkness - Prize:1",
+            "region": "Dark Palace",
+            "class": "prizes"
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gRW50cmFuY2U6MQ==",
+            "name": "Swamp Palace - Entrance:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/Entrance.png",
+            "tags": []
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gQmlnIENoZXN0OjE=",
+            "name": "Swamp Palace - Big Chest:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gQmlnIEtleSBDaGVzdDox",
+            "name": "Swamp Palace - Big Key Chest:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/BigKeyChest.png",
+            "tags": ["lss"]
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gTWFwIENoZXN0OjE=",
+            "name": "Swamp Palace - Map Chest:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/MapChest.png",
+            "tags": []
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gV2VzdCBDaGVzdDox",
+            "name": "Swamp Palace - West Chest:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/WestChest.png",
+            "tags": ["lss"]
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gQ29tcGFzcyBDaGVzdDox",
+            "name": "Swamp Palace - Compass Chest:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/CompassChest.png",
+            "tags": []
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gRmxvb2RlZCBSb29tIC0gTGVmdDox",
+            "name": "Swamp Palace - Flooded Room - Left:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/FloodedRoom.png",
+            "tags": ["diver", "down"]
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gRmxvb2RlZCBSb29tIC0gUmlnaHQ6MQ==",
+            "name": "Swamp Palace - Flooded Room - Right:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/FloodedRoom.png",
+            "tags": ["diver", "down"]
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gV2F0ZXJmYWxsIFJvb206MQ==",
+            "name": "Swamp Palace - Waterfall Room:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/WaterfallRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gQm9zczox",
+            "name": "Swamp Palace - Boss:1",
+            "region": "Swamp Palace",
+            "class": "items",
+            "image": "images/SwampPalace/Boss.png",
+            "tags": ["arrghus"]
+        },
+        {
+            "hash": "U3dhbXAgUGFsYWNlIC0gUHJpemU6MQ==",
+            "name": "Swamp Palace - Prize:1",
+            "region": "Swamp Palace",
+            "class": "prizes"
+        },
+        {
+            "hash": "U2t1bGwgV29vZHMgLSBCaWcgQ2hlc3Q6MQ==",
+            "name": "Skull Woods - Big Chest:1",
+            "region": "Skull Woods",
+            "class": "items",
+            "image": "images/SkullWoods/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "U2t1bGwgV29vZHMgLSBCaWcgS2V5IENoZXN0OjE=",
+            "name": "Skull Woods - Big Key Chest:1",
+            "region": "Skull Woods",
+            "class": "items",
+            "image": "images/SkullWoods/BigKeyChest.png",
+            "tags": ["statue", "push"]
+        },
+        {
+            "hash": "U2t1bGwgV29vZHMgLSBDb21wYXNzIENoZXN0OjE=",
+            "name": "Skull Woods - Compass Chest:1",
+            "region": "Skull Woods",
+            "class": "items",
+            "image": "images/SkullWoods/CompassChest.png",
+            "tags": []
+        },
+        {
+            "hash": "U2t1bGwgV29vZHMgLSBNYXAgQ2hlc3Q6MQ==",
+            "name": "Skull Woods - Map Chest:1",
+            "region": "Skull Woods",
+            "class": "items",
+            "image": "images/SkullWoods/MapChest.png",
+            "tags": []
+        },
+        {
+            "hash": "U2t1bGwgV29vZHMgLSBCcmlkZ2UgUm9vbTox",
+            "name": "Skull Woods - Bridge Chest:1",
+            "region": "Skull Woods",
+            "class": "items",
+            "image": "images/SkullWoods/BridgeRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "U2t1bGwgV29vZHMgLSBQb3QgUHJpc29uOjE=",
+            "name": "Skull Woods - Pot Prison:1",
+            "region": "Skull Woods",
+            "class": "items",
+            "image": "images/SkullWoods/PotPrison.png",
+            "tags": []
+        },
+        {
+            "hash": "U2t1bGwgV29vZHMgLSBQaW5iYWxsIFJvb206MQ==",
+            "name": "Skull Woods - Pinball Room:1",
+            "region": "Skull Woods",
+            "class": "items",
+            "image": "images/SkullWoods/PinballRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "U2t1bGwgV29vZHMgLSBCb3NzOjE=",
+            "name": "Skull Woods - Boss:1",
+            "region": "Skull Woods",
+            "class": "items",
+            "image": "images/SkullWoods/Boss.png",
+            "tags": ["mothula"]
+        },
+        {
+            "hash": "U2t1bGwgV29vZHMgLSBQcml6ZTox",
+            "name": "Skull Woods - Prize:1",
+            "region": "Skull Woods",
+            "class": "prizes"
+        },
+        {
+            "hash": "VGhpZXZlcycgVG93biAtIEF0dGljOjE=",
+            "name": "Thieves' Town - Attic:1",
+            "region": "Thieves Town",
+            "class": "items",
+            "image": "images/ThievesTown/Attic.png",
+            "tags": []
+        },
+        {
+            "hash": "VGhpZXZlcycgVG93biAtIEJpZyBLZXkgQ2hlc3Q6MQ==",
+            "name": "Thieves' Town - Big Key Chest:1",
+            "region": "Thieves Town",
+            "class": "items",
+            "image": "images/ThievesTown/BigKeyChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VGhpZXZlcycgVG93biAtIE1hcCBDaGVzdDox",
+            "name": "Thieves' Town - Map Chest:1",
+            "region": "Thieves Town",
+            "class": "items",
+            "image": "images/ThievesTown/MapChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VGhpZXZlcycgVG93biAtIENvbXBhc3MgQ2hlc3Q6MQ==",
+            "name": "Thieves' Town - Compass Chest:1",
+            "region": "Thieves Town",
+            "class": "items",
+            "image": "images/ThievesTown/CompassChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VGhpZXZlcycgVG93biAtIEFtYnVzaCBDaGVzdDox",
+            "name": "Thieves' Town - Ambush Chest:1",
+            "region": "Thieves Town",
+            "class": "items",
+            "image": "images/ThievesTown/AmbushChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VGhpZXZlcycgVG93biAtIEJpZyBDaGVzdDox",
+            "name": "Thieves' Town - Big Chest:1",
+            "region": "Thieves Town",
+            "class": "items",
+            "image": "images/ThievesTown/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VGhpZXZlcycgVG93biAtIEJsaW5kJ3MgQ2VsbDox",
+            "name": "Thieves' Town - Blind's Cell:1",
+            "region": "Thieves Town",
+            "class": "items",
+            "image": "images/ThievesTown/BlindsCell.png",
+            "tags": []
+        },
+        {
+            "hash": "VGhpZXZlcycgVG93biAtIEJvc3M6MQ==",
+            "name": "Thieves' Town - Boss:1",
+            "region": "Thieves Town",
+            "class": "items",
+            "image": "images/ThievesTown/Boss.png",
+            "tags": ["blind"]
+        },
+        {
+            "hash": "VGhpZXZlcycgVG93biAtIFByaXplOjE=",
+            "name": "Thieves' Town - Prize:1",
+            "region": "Thieves Town",
+            "class": "prizes"
+        },
+        {
+            "hash": "SWNlIFBhbGFjZSAtIEJpZyBLZXkgQ2hlc3Q6MQ==",
+            "name": "Ice Palace - Big Key Chest:1",
+            "region": "Ice Palace",
+            "class": "items",
+            "image": "images/IcePalace/BigKeyChest.png",
+            "tags": ["icebreaker"]
+        },
+        {
+            "hash": "SWNlIFBhbGFjZSAtIENvbXBhc3MgQ2hlc3Q6MQ==",
+            "name": "Ice Palace - Compass Chest:1",
+            "region": "Ice Palace",
+            "class": "items",
+            "image": "images/IcePalace/CompassChest.png",
+            "tags": ["pengator"]
+        },
+        {
+            "hash": "SWNlIFBhbGFjZSAtIE1hcCBDaGVzdDox",
+            "name": "Ice Palace - Map Chest:1",
+            "region": "Ice Palace",
+            "class": "items",
+            "image": "images/IcePalace/MapChest.png",
+            "tags": ["iced", "h"]
+        },
+        {
+            "hash": "SWNlIFBhbGFjZSAtIFNwaWtlIFJvb206MQ==",
+            "name": "Ice Palace - Spike Room:1",
+            "region": "Ice Palace",
+            "class": "items",
+            "image": "images/IcePalace/SpikeRoom.png",
+            "tags": ["chest"]
+        },
+        {
+            "hash": "SWNlIFBhbGFjZSAtIEZyZWV6b3IgQ2hlc3Q6MQ==",
+            "name": "Ice Palace - Freezor Chest:1",
+            "region": "Ice Palace",
+            "class": "items",
+            "image": "images/IcePalace/FreezorChest.png",
+            "tags": []
+        },
+        {
+            "hash": "SWNlIFBhbGFjZSAtIEljZWQgVCBSb29tOjE=",
+            "name": "Ice Palace - Iced T Chest:1",
+            "region": "Ice Palace",
+            "class": "items",
+            "image": "images/IcePalace/IcedTRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "SWNlIFBhbGFjZSAtIEJpZyBDaGVzdDox",
+            "name": "Ice Palace - Big Chest:1",
+            "region": "Ice Palace",
+            "class": "items",
+            "image": "images/IcePalace/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "SWNlIFBhbGFjZSAtIEJvc3M6MQ==",
+            "name": "Ice Palace - Boss:1",
+            "region": "Ice Palace",
+            "class": "items",
+            "image": "images/IcePalace/Boss.png",
+            "tags": ["kholdstare"]
+        },
+        {
+            "hash": "SWNlIFBhbGFjZSAtIFByaXplOjE=",
+            "name": "Ice Palace - Prize:1",
+            "region": "Ice Palace",
+            "class": "prizes"
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgLSBCaWcgQ2hlc3Q6MQ==",
+            "name": "Misery Mire - Big Chest:1",
+            "region": "Misery Mire",
+            "class": "items",
+            "image": "images/MiseryMire/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgLSBNYWluIExvYmJ5OjE=",
+            "name": "Misery Mire - Main Lobby:1",
+            "region": "Misery Mire",
+            "class": "items",
+            "image": "images/MiseryMire/MainLobby.png",
+            "tags": []
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgLSBCaWcgS2V5IENoZXN0OjE=",
+            "name": "Misery Mire - Big Key Chest:1",
+            "region": "Misery Mire",
+            "class": "items",
+            "image": "images/MiseryMire/BigKeyChest.png",
+            "tags": ["cutscene"]
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgLSBDb21wYXNzIENoZXN0OjE=",
+            "name": "Misery Mire - Compass Chest:1",
+            "region": "Misery Mire",
+            "class": "items",
+            "image": "images/MiseryMire/CompassChest.png",
+            "tags": []
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgLSBCcmlkZ2UgQ2hlc3Q6MQ==",
+            "name": "Misery Mire - Bridge Chest:1",
+            "region": "Misery Mire",
+            "class": "items",
+            "image": "images/MiseryMire/BridgeChest.png",
+            "tags": []
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgLSBNYXAgQ2hlc3Q6MQ==",
+            "name": "Misery Mire - Map Chest:1",
+            "region": "Misery Mire",
+            "class": "items",
+            "image": "images/MiseryMire/MapChest.png",
+            "tags": []
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgLSBTcGlrZSBDaGVzdDox",
+            "name": "Misery Mire - Spike Chest:1",
+            "region": "Misery Mire",
+            "class": "items",
+            "image": "images/MiseryMire/SpikeChest.png",
+            "tags": []
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgLSBCb3NzOjE=",
+            "name": "Misery Mire - Boss:1",
+            "region": "Misery Mire",
+            "class": "items",
+            "image": "images/MiseryMire/Boss.png",
+            "tags": ["vitreous", "vitty"]
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgLSBQcml6ZTox",
+            "name": "Misery Mire - Prize:1",
+            "region": "Misery Mire",
+            "class": "prizes"
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBDaGFpbiBDaG9tcHM6MQ==",
+            "name": "Turtle Rock - Chain Chomps:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/ChainChomps.png",
+            "tags": []
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBDb21wYXNzIENoZXN0OjE=",
+            "name": "Turtle Rock - Compass Chest:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/CompassChest.png",
+            "tags": ["spike"]
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBSb2xsZXIgUm9vbSAtIExlZnQ6MQ==",
+            "name": "Turtle Rock - Roller Room - Left:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/RollerRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBSb2xsZXIgUm9vbSAtIFJpZ2h0OjE=",
+            "name": "Turtle Rock - Roller Room - Right:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/RollerRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBCaWcgQ2hlc3Q6MQ==",
+            "name": "Turtle Rock - Big Chest:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBCaWcgS2V5IENoZXN0OjE=",
+            "name": "Turtle Rock - Big Key Chest:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/BigKeyChest.png",
+            "tags": []
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBDcnlzdGFyb2xsZXIgUm9vbTox",
+            "name": "Turtle Rock - Crystaroller Room:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/CrystarollerRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBFeWUgQnJpZGdlIC0gQm90dG9tIExlZnQ6MQ==",
+            "name": "Turtle Rock - Eye Bridge - Bottom Left:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/EyeBridge.png",
+            "tags": ["laser"]
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBFeWUgQnJpZGdlIC0gQm90dG9tIFJpZ2h0OjE=",
+            "name": "Turtle Rock - Eye Bridge - Bottom Right:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/EyeBridge.png",
+            "tags": ["laser"]
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBFeWUgQnJpZGdlIC0gVG9wIExlZnQ6MQ==",
+            "name": "Turtle Rock - Eye Bridge - Top Left:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/EyeBridge.png",
+            "tags": ["laser"]
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBFeWUgQnJpZGdlIC0gVG9wIFJpZ2h0OjE=",
+            "name": "Turtle Rock - Eye Bridge - Top Right:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/EyeBridge.png",
+            "tags": ["laser"]
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBCb3NzOjE=",
+            "name": "Turtle Rock - Boss:1",
+            "region": "Turtle Rock",
+            "class": "items",
+            "image": "images/TurtleRock/Boss.png",
+            "tags": ["trinexx"]
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgLSBQcml6ZTox",
+            "name": "Turtle Rock - Prize:1",
+            "region": "Turtle Rock",
+            "class": "prizes"
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIEJvYidzIFRvcmNoOjE=",
+            "name": "Ganon's Tower - Bob's Torch:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/BobsTorch.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIERNcyBSb29tIC0gVG9wIExlZnQ6MQ==",
+            "name": "Ganon's Tower - DMs Room - Top Left:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/DMsRoom.png",
+            "tags": ["stalfos"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIERNcyBSb29tIC0gVG9wIFJpZ2h0OjE=",
+            "name": "Ganon's Tower - DMs Room - Top Right:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/DMsRoom.png",
+            "tags": ["stalfos"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIERNcyBSb29tIC0gQm90dG9tIExlZnQ6MQ==",
+            "name": "Ganon's Tower - DMs Room - Bottom Left:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/DMsRoom.png",
+            "tags": ["stalfos"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIERNcyBSb29tIC0gQm90dG9tIFJpZ2h0OjE=",
+            "name": "Ganon's Tower - DMs Room - Bottom Right:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/DMsRoom.png",
+            "tags": ["stalfos"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIFJhbmRvbWl6ZXIgUm9vbSAtIFRvcCBMZWZ0OjE=",
+            "name": "Ganon's Tower - Randomizer Room - Top Left:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/RandomizerRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIFJhbmRvbWl6ZXIgUm9vbSAtIFRvcCBSaWdodDox",
+            "name": "Ganon's Tower - Randomizer Room - Top Right:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/RandomizerRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIFJhbmRvbWl6ZXIgUm9vbSAtIEJvdHRvbSBMZWZ0OjE=",
+            "name": "Ganon's Tower - Randomizer Room - Bottom Left:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/RandomizerRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIFJhbmRvbWl6ZXIgUm9vbSAtIEJvdHRvbSBSaWdodDox",
+            "name": "Ganon's Tower - Randomizer Room - Bottom Right:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/RandomizerRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIEZpcmVzbmFrZSBSb29tOjE=",
+            "name": "Ganon's Tower - Firesnake Room:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/FiresnakeRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIE1hcCBDaGVzdDox",
+            "name": "Ganon's Tower - Map Chest:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/MapChest.png",
+            "tags": ["double","fire","bar"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIEJpZyBDaGVzdDox",
+            "name": "Ganon's Tower - Big Chest:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/BigChest.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIEhvcGUgUm9vbSAtIExlZnQ6MQ==",
+            "name": "Ganon's Tower - Hope Room - Left:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/HopeRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIEhvcGUgUm9vbSAtIFJpZ2h0OjE=",
+            "name": "Ganon's Tower - Hope Room - Right:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/HopeRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIEJvYidzIENoZXN0OjE=",
+            "name": "Ganon's Tower - Bob's Chest:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/BobsChest.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIFRpbGUgUm9vbTox",
+            "name": "Ganon's Tower - Tile Room:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/TileRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIENvbXBhc3MgUm9vbSAtIFRvcCBMZWZ0OjE=",
+            "name": "Ganon's Tower - Compass Room - Top Left:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/CompassRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIENvbXBhc3MgUm9vbSAtIFRvcCBSaWdodDox",
+            "name": "Ganon's Tower - Compass Room - Top Right:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/CompassRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIENvbXBhc3MgUm9vbSAtIEJvdHRvbSBMZWZ0OjE=",
+            "name": "Ganon's Tower - Compass Room - Bottom Left:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/CompassRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIENvbXBhc3MgUm9vbSAtIEJvdHRvbSBSaWdodDox",
+            "name": "Ganon's Tower - Compass Room - Bottom Right:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/CompassRoom.png",
+            "tags": []
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIEJpZyBLZXkgQ2hlc3Q6MQ==",
+            "name": "Ganon's Tower - Big Key Chest:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/BigKeyRoom.png",
+            "tags": ["ice", "armos"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIEJpZyBLZXkgUm9vbSAtIExlZnQ6MQ==",
+            "name": "Ganon's Tower - Big Key Room - Left:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/BigKeyRoom.png",
+            "tags": ["ice", "armos"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIEJpZyBLZXkgUm9vbSAtIFJpZ2h0OjE=",
+            "name": "Ganon's Tower - Big Key Room - Right:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/BigKeyRoom.png",
+            "tags": ["ice", "armos"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIE1pbmkgSGVsbWFzYXVyIFJvb20gLSBMZWZ0OjE=",
+            "name": "Ganon's Tower - Mini Helmasaur Room - Left:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/MiniHelmasaurRoom.png",
+            "tags": ["climb"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIE1pbmkgSGVsbWFzYXVyIFJvb20gLSBSaWdodDox",
+            "name": "Ganon's Tower - Mini Helmasaur Room - Right:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/MiniHelmasaurRoom.png",
+            "tags": ["climb"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIFByZS1Nb2xkb3JtIENoZXN0OjE=",
+            "name": "Ganon's Tower - Pre-Moldorm Chest:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/PreMoldormChest.png",
+            "tags": ["climb"]
+        },
+        {
+            "hash": "R2Fub24ncyBUb3dlciAtIE1vbGRvcm0gQ2hlc3Q6MQ==",
+            "name": "Ganon's Tower - Moldorm Chest:1",
+            "region": "Ganons Tower",
+            "class": "items",
+            "image": "images/GanonsTower/Moldorm2Chest.png",
+            "tags": ["climb", "validation"]
+        },
+        {
+            "hash": "VHVydGxlIFJvY2sgTWVkYWxsaW9uOjE=",
+            "name": "Turtle Rock Medallion:1",
+            "region": "Special",
+            "class": "medallions"
+        },
+        {
+            "hash": "TWlzZXJ5IE1pcmUgTWVkYWxsaW9uOjE=",
+            "name": "Misery Mire Medallion:1",
+            "region": "Special",
+            "class": "medallions"
+        },
+        {
+            "hash": "V2F0ZXJmYWxsIEJvdHRsZTox",
+            "name": "Waterfall Bottle:1",
+            "region": "Special",
+            "class": "bottles"
+        },
+        {
+            "hash": "UHlyYW1pZCBCb3R0bGU6MQ==",
+            "name": "Pyramid Bottle:1",
+            "region": "Special",
+            "class": "bottles"
+        }
+    ],
+    "prizepacks": [
+        {
+            "name": "0",
+            "slots": 8
+        },
+        {
+            "name": "1",
+            "slots": 8
+        },
+        {
+            "name": "2",
+            "slots": 8
+        },
+        {
+            "name": "3",
+            "slots": 8
+        },
+        {
+            "name": "4",
+            "slots": 8
+        },
+        {
+            "name": "5",
+            "slots": 8
+        },
+        {
+            "name": "6",
+            "slots": 8
+        },
+        {
+            "name": "pull",
+            "slots": 3
+        },
+        {
+            "name": "crab",
+            "slots": 2
+        },
+        {
+            "name": "stun",
+            "slots": 1
+        },
+        {
+            "name": "fish",
+            "slots": 1
+        }
+    ],
+    "items": [
+        {
+            "value": "auto_fill",
+            "name": "Random",
+            "placed": 0,
+            "pretty_name": "Auto Fill",
+            "tablet_text": "Don't waste\nyour time!"
+        },
+        {
+            "value": "BottleWithRandom:1",
+            "name": "BottleWithRandom",
+            "count": 4,
+            "placed": 0,
+            "icon": {
+                "icon": "mdi:bottle-tonic",
+                "color": "#ccc"
+            },
+            "pretty_name": "Bottle",
+            "tablet_text": "Now you can\nstore potions\nand stuff!",
+            "images": ["Bottle.png"]
+        },
+        {
+            "value": "Nothing:1",
+            "name": "Nothing",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Don't waste\nyour time!"
+        },
+        {
+            "value": "L1Sword:1",
+            "name": "L1Sword",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "A pathetic\nsword rests\nhere!",
+            "images": ["Lvl1sword.png"]
+        },
+        {
+            "value": "L1SwordAndShield:1",
+            "name": "L1SwordAndShield",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "A pathetic\nsword rests\nhere!",
+            "images": ["Lvl1sword.png"]
+        },
+        {
+            "value": "MasterSword:1",
+            "name": "MasterSword",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Look at me!\nI am the\npedestal!",
+            "images": ["Lvl2sword.png"]
+        },
+        {
+            "value": "L3Sword:1",
+            "name": "L3Sword",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "I stole the\nblacksmith's\njob!",
+            "images": ["Lvl3sword.png"]
+        },
+        {
+            "value": "L4Sword:1",
+            "name": "L4Sword",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "The butter\nsword rests\nhere!",
+            "images": ["Lvl4sword.png"]
+        },
+        {
+            "value": "BlueShield:1",
+            "name": "BlueShield",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you can\ndefend against\npebbles!",
+            "images": ["Lvl1shield.png"]
+        },
+        {
+            "value": "RedShield:1",
+            "name": "RedShield",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you can\ndefend against\nfireballs!",
+            "images": ["Lvl2shield.png"]
+        },
+        {
+            "value": "MirrorShield:1",
+            "name": "MirrorShield",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you can\ndefend against\nlasers!",
+            "images": ["Lvl3shield.png"]
+        },
+        {
+            "value": "FireRod:1",
+            "name": "FireRod",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"fa6-solid:wand-magic-sparkles",
+                "color":"red"
+            },
+            "pretty_name": "Fire Rod",
+            "tablet_text": "I'm the hot\nrod. I make\nthings burn!",
+            "images": ["FireRod.png"]
+        },
+        {
+            "value": "IceRod:1",
+            "name": "IceRod",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"fa6-solid:wand-magic-sparkles",
+                "color":"#09f"
+            },
+            "pretty_name": "Ice Rod",
+            "tablet_text": "I'm the cold\nrod. I make\nthings freeze!",
+            "images": ["IceRod.png"]
+        },
+        {
+            "value": "Hammer:1",
+            "name": "Hammer",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"jam:hammer-f",
+                "color":"#a60"
+            },
+            "pretty_name": "Magic Hammer",
+            "tablet_text": "stop\nhammer time!",
+            "images": ["Hammer.png"]
+        },
+        {
+            "value": "Hookshot:1",
+            "name": "Hookshot",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:hook",
+                "color":"gray"
+            },
+            "pretty_name": "Hookshot",
+            "tablet_text": "BOING!!!\nBOING!!!\nBOING!!!",
+            "images": ["Hookshot.png"]
+        },
+        {
+            "value": "Bow:1",
+            "name": "Bow",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "You have\nchosen the\narcher class.",
+            "images": ["Bow.png"]
+        },
+        {
+            "value": "Boomerang:1",
+            "name": "Boomerang",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:boomerang",
+                "color":"blue"
+            },
+            "pretty_name": "Blue Boomerang",
+            "tablet_text": "No matter what\nyou do, blue\nreturns to you",
+            "images": ["Boomerang.png"]
+        },
+        {
+            "value": "Powder:1",
+            "name": "Powder",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:sack",
+                "color":"#a60"
+            },
+            "pretty_name": "Magic Powder",
+            "tablet_text": "you can turn\nanti-faeries\ninto faeries",
+            "images": ["Powder.png"]
+        },
+        {
+            "value": "Bombos:1",
+            "name": "Bombos",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"icon-park-solid:whirlwind",
+                "color":"#da0",
+                "hFlip":true
+            },
+            "pretty_name": "Bombos",
+            "tablet_text": "Burn, baby,\nburn! Fear my\nring of fire!",
+            "images": ["Bombos.png"]
+        },
+        {
+            "value": "Ether:1",
+            "name": "Ether",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"gg:bolt",
+                "color":"#da0"
+            },
+            "pretty_name": "Ether",
+            "tablet_text": "This magic\ncoin freezes\neverything!",
+            "images": ["Ether.png"]
+        },
+        {
+            "value": "Quake:1",
+            "name": "Quake",
+            "count": 1,
+            "placed": 0,
+            "icon":  {
+                "icon":"fluent:catch-up-24-filled",
+                "color":"#da0"
+            },
+            "pretty_name": "Quake",
+            "tablet_text": "Maxing out the\nRichter scale\nis what I do!",
+            "images": ["Quake.png"]
+        },
+        {
+            "value": "Lamp:1",
+            "name": "Lamp",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:post-lamp",
+                "color":"#c00"
+            },
+            "pretty_name": "Lamp",
+            "tablet_text": "Baby, baby,\nbaby.\nLight my way!",
+            "images": ["Lamp.png"]
+        },
+        {
+            "value": "Shovel:1",
+            "name": "Shovel",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:shovel",
+                "color":"#aaa"
+            },
+            "pretty_name": "Shovel",
+            "tablet_text": "Can\n   You\n      Dig it?",
+            "images": ["Shovel.png"]
+        },
+        {
+            "value": "OcarinaInactive:1",
+            "name": "OcarinaInactive",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:ocarina",
+                "color":"#05a"
+            },
+            "pretty_name": "Flute",
+            "tablet_text": "Save the duck\nand fly to\nfreedom!",
+            "images": ["Ocarina.png"]
+        },
+        {
+            "value": "CaneOfSomaria:1",
+            "name": "CaneOfSomaria",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"icon-park-outline:a-cane",
+                "color":"#c00"
+            },
+            "pretty_name": "Cane of Somaria",
+            "tablet_text": "I make blocks\nto hold down\nswitches!",
+            "images": ["CaneOfSomaria.png"]
+        },
+        {
+            "value": "Bottle:1",
+            "name": "Bottle",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you can\nstore potions\nand stuff!",
+            "images": ["Bottle.png"]
+        },
+        {
+            "value": "PieceOfHeart:1",
+            "name": "PieceOfHeart",
+            "count": 24,
+            "placed": 0,
+            "icon": {
+                "icon":"fluent:heart-circle-20-filled",
+                "color":"#a00"
+            },
+            "pretty_name": "Piece of Heart",
+            "tablet_text": "Just a little\npiece of love!",
+            "images": ["PieceOfHeart.png"]
+        },
+        {
+            "value": "CaneOfByrna:1",
+            "name": "CaneOfByrna",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"icon-park-outline:a-cane",
+                "color":"#05a"
+            },
+            "pretty_name": "Cane of Byrna",
+            "tablet_text": "Use this to\nbecome\ninvincible!",
+            "images": ["CaneOfByrna.png"]
+        },
+        {
+            "value": "Cape:1",
+            "name": "Cape",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"ant-design:eye-invisible-outlined",
+                "color":"#aaa"
+            },
+            "pretty_name": "Magic Cape",
+            "tablet_text": "Wear this to\nbecome\ninvisible!",
+            "images": ["MagicCape.png"]
+        },
+        {
+            "value": "MagicMirror:1",
+            "name": "MagicMirror",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"icon-park-twotone:mirror-one",
+                "color":"#05c"
+            },
+            "pretty_name": "Magic Mirror",
+            "tablet_text": "Isn't your\nreflection so\npretty?",
+            "images": ["MagicMirror.png"]
+        },
+        {
+            "value": "PowerGlove:1",
+            "name": "PowerGlove",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you can\nlift weak\nstuff!",
+            "images": ["PowerGlove.png"]
+        },
+        {
+            "value": "TitansMitt:1",
+            "name": "TitansMitt",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you can\nlift heavy\nstuff!",
+            "images": ["TitansMitts.png"]
+        },
+        {
+            "value": "BookOfMudora:1",
+            "name": "BookOfMudora",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"dashicons:book-alt",
+                "color":"#070"
+            },
+            "pretty_name": "Book of Mudora",
+            "tablet_text": "This is a\nparadox?!",
+            "images": ["BookOfMudora.png"]
+        },
+        {
+            "value": "Flippers:1",
+            "name": "Flippers",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:diving-flippers",
+                "color":"#05c"
+            },
+            "pretty_name": "Flippers",
+            "tablet_text": "fancy a swim?",
+            "images": ["Flippers.png"]
+        },
+        {
+            "value": "MoonPearl:1",
+            "name": "MoonPearl",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:bowling",
+                "color":"pink"
+            },
+            "pretty_name": "Moon Pearl",
+            "tablet_text": "  Bunny Link\n      be\n     gone!",
+            "images": ["MoonPearl.png"]
+        },
+        {
+            "value": "BugCatchingNet:1",
+            "name": "BugCatchingNet",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:dot-net",
+                "color":"#aaa"
+            },
+            "pretty_name": "Bug Catching Net",
+            "tablet_text": "Let's catch\nsome bees and\nfaeries!",
+            "images": ["BugCatchingNet.png"]
+        },
+        {
+            "value": "BlueMail:1",
+            "name": "BlueMail",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you're a\nblue elf!",
+            "images": ["BlueMail.png"]
+        },
+        {
+            "value": "RedMail:1",
+            "name": "RedMail",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you're a\nred elf!",
+            "images": ["RedMail.png"]
+        },
+        {
+            "value": "Bomb:1",
+            "name": "Bomb",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "I make things\ngo BOOM! But\njust once.",
+            "images": ["Bomb.png"]
+        },
+        {
+            "value": "ThreeBombs:1",
+            "name": "ThreeBombs",
+            "count": 16,
+            "placed": 0,
+            "icon": {
+                "icon":"fa-solid:bomb",
+                "color":"#00a"
+            },
+            "pretty_name": "Three Bombs",
+            "tablet_text": "I make things\ngo triple\nBOOM!!!",
+            "images": ["ThreeBombs.png"]
+        },
+        {
+            "value": "Mushroom:1",
+            "name": "Mushroom",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:mushroom",
+                "color":"#a00"
+            },
+            "pretty_name": "Mushroom",
+            "tablet_text": "I'm a fun guy!\n\nI'm a funghi!",
+            "images": ["Mushroom.png"]
+        },
+        {
+            "value": "RedBoomerang:1",
+            "name": "RedBoomerang",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:boomerang",
+                "color":"#a00"
+            },
+            "pretty_name": "Magic Boomerang",
+            "tablet_text": "No matter what\nyou do, red\nreturns to you",
+            "images": ["MagicBoomerang.png"]
+        },
+        {
+            "value": "BottleWithRedPotion:1",
+            "name": "BottleWithRedPotion",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "You see red\ngoo in a\nbottle?",
+            "images": ["BottleWithRedPotion.png"]
+        },
+        {
+            "value": "BottleWithGreenPotion:1",
+            "name": "BottleWithGreenPotion",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "You see green\ngoo in a\nbottle?",
+            "images": ["BottleWithGreenPotion.png"]
+        },
+        {
+            "value": "BottleWithBluePotion:1",
+            "name": "BottleWithBluePotion",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "You see blue\ngoo in a\nbottle?",
+            "images": ["BottleWithBluePotion.png"]
+        },
+        {
+            "value": "TenBombs:1",
+            "name": "TenBombs",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"fa-solid:bomb",
+                "color":"#00a"
+            },
+            "pretty_name": "Uncle Bombs",
+            "tablet_text": "I make things\ngo BOOM!\nso many times!",
+            "images": ["TenBombs.png"]
+        },
+        {
+            "value": "OneRupee:1",
+            "name": "OneRupee",
+            "count": 2,
+            "placed": 0,
+            "icon": {
+                "icon":"fa6-solid:money-bill-1-wave",
+                "color":"green"
+            },
+            "pretty_name": "Single Rupee",
+            "tablet_text": "Just pocket\nchange. Move\nright along.",
+            "images": ["OneRupee.png"]
+        },
+        {
+            "value": "FiveRupees:1",
+            "name": "FiveRupees",
+            "count": 4,
+            "placed": 0,
+            "icon": {
+                "icon":"fa6-solid:money-bill-1-wave",
+                "color":"#05c"
+            },
+            "pretty_name": "Five Rupees",
+            "tablet_text": "Just pocket\nchange. Move\nright along.",
+            "images": ["FiveRupees.png"]
+        },
+        {
+            "value": "TwentyRupees:1",
+            "name": "TwentyRupees",
+            "count": 28,
+            "placed": 0,
+            "icon": {
+                "icon":"fa6-solid:money-bill-1-wave",
+                "color":"#a00"
+            },
+            "pretty_name": "Twenty Rupees",
+            "tablet_text": "Just couch\ncash. Move\nright along.",
+            "images": ["TwentyRupees.png", "TwentyRupees2.png"]
+        },
+        {
+            "value": "BowAndArrows:1",
+            "name": "BowAndArrows",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "You are now an\naverage archer",
+            "images": ["BowAndArrows.png"]
+        },
+        {
+            "value": "BowAndSilverArrows:1",
+            "name": "BowAndSilverArrows",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "You are now a\nmaster archer!",
+            "images": ["BowAndSilverArrows.png"]
+        },
+        {
+            "value": "BottleWithBee:1",
+            "name": "BottleWithBee",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Release me\nso I can go\nbzzzzz!",
+            "images": ["BottleWithBee.png"]
+        },
+        {
+            "value": "BottleWithFairy:1",
+            "name": "BottleWithFairy",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "If you die\nI will revive\nyou!",
+            "images": ["BottleWithFairy.png"]
+        },
+        {
+            "value": "BossHeartContainer:1",
+            "name": "BossHeartContainer",
+            "count": 10,
+            "placed": 0,
+            "icon": {
+                "icon":"fluent:heart-24-filled",
+                "color":"#a00"
+            },
+            "pretty_name": "Heart Container",
+            "tablet_text": "Maximum health\nincreased!\nYeah!",
+            "images": ["HeartContainer.png"]
+        },
+        {
+            "value": "HeartContainer:1",
+            "name": "HeartContainer",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"fluent:heart-24-filled",
+                "color":"#a00"
+            },
+            "pretty_name": "Sanctuary Heart Container",
+            "tablet_text": "Maximum health\nincreased!\nYeah!",
+            "images": ["HeartContainer.png"]
+        },
+        {
+            "value": "OneHundredRupees:1",
+            "name": "OneHundredRupees",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"fa6-solid:money-bill-1-wave",
+                "color":"silver"
+            },
+            "pretty_name": "One Hundred Rupees",
+            "tablet_text": "A rupee stash!\nHell yeah!",
+            "images": ["OneHundredRupees.png"]
+        },
+        {
+            "value": "FiftyRupees:1",
+            "name": "FiftyRupees",
+            "count": 7,
+            "placed": 0,
+            "icon": {
+                "icon":"fa6-solid:money-bill-1-wave",
+                "color":"purple"
+            },
+            "pretty_name": "Fifty Rupees",
+            "tablet_text": "Just couch\ncash. Move\nright along.",
+            "images": ["FiftyRupees.png"]
+        },
+        {
+            "value": "Heart:1",
+            "name": "Heart",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "I'm a lonely\nheart.",
+            "images": ["SmallHeart.png"]
+        },
+        {
+            "value": "Arrow:1",
+            "name": "Arrow",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"icon-park-outline:middle-finger"
+            },
+            "pretty_name": "Single Arrow",
+            "tablet_text": "a lonely arrow\nsits here.",
+            "images": ["Arrow.png"]
+        },
+        {
+            "value": "TenArrows:1",
+            "name": "TenArrows",
+            "count": 12,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:spear"
+            },
+            "pretty_name": "Ten Arrows",
+            "tablet_text": "This will give\nyou ten shots\nwith your bow!",
+            "images": ["TenArrows.png"]
+        },
+        {
+            "value": "SmallMagic:1",
+            "name": "SmallMagic",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "A tiny magic\nrefill rests\nhere",
+            "images": ["SmallMagic.png"]
+        },
+        {
+            "value": "ThreeHundredRupees:1",
+            "name": "ThreeHundredRupees",
+            "count": 5,
+            "placed": 0,
+            "icon": {
+                "icon":"healthicons:money-bag",
+                "color":"#a60"
+            },
+            "pretty_name": "Three Hundred Rupees",
+            "tablet_text": "A rupee hoard!\nHell yeah!",
+            "images": ["ThreeHundredRupees.png"]
+        },
+        {
+            "value": "BottleWithGoldBee:1",
+            "name": "BottleWithGoldBee",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Release me\nso I can go\nbzzzzz!",
+            "images": ["BottleWithBee.png"]
+        },
+        {
+            "value": "OcarinaActive:1",
+            "name": "OcarinaActive",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Save the duck\nand fly to\nfreedom!",
+            "images": ["Ocarina.png"]
+        },
+        {
+            "value": "PegasusBoots:1",
+            "name": "PegasusBoots",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"carbon:boot",
+                "color":"#a00"
+            },
+            "pretty_name": "Pegasus Boots",
+            "tablet_text": "Gotta go fast!",
+            "images": ["PegasusBoots.png"]
+        },
+        {
+            "value": "BombUpgrade5:1",
+            "name": "BombUpgrade5",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "increase bomb\nstorage, low\nlow price",
+            "images": ["Bomb.png"]
+        },
+        {
+            "value": "BombUpgrade10:1",
+            "name": "BombUpgrade10",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "increase bomb\nstorage, low\nlow price",
+            "images": ["Bomb.png"]
+        },
+        {
+            "value": "ArrowUpgrade5:1",
+            "name": "ArrowUpgrade5",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "increase arrow\nstorage, low\nlow price",
+            "images": ["Arrow.png"]
+        },
+        {
+            "value": "ArrowUpgrade10:1",
+            "name": "ArrowUpgrade10",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "increase arrow\nstorage, low\nlow price",
+            "images": ["Arrow.png"]
+        },
+        {
+            "value": "HalfMagic:1",
+            "name": "HalfMagic",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:fraction-one-half",
+                "color":"#0a0"
+            },
+            "pretty_name": "Half Magic",
+            "tablet_text": "Your magic\npower has been\ndoubled!",
+            "images": ["HalfMagic.png"]
+        },
+        {
+            "value": "QuarterMagic:1",
+            "name": "QuarterMagic",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Your magic\npower has been\nquadrupled!",
+            "images": ["QuarterMagic.png"]
+        },
+        {
+            "value": "SilverArrowUpgrade:1",
+            "name": "SilverArrowUpgrade",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Do you fancy\nsilver tipped\narrows?",
+            "images": ["SilverArrowUpgrade.png"]
+        },
+        {
+            "value": "Rupoor:1",
+            "name": "Rupoor",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "This is not\nreally worth\nyour time",
+            "images": ["Rupoor.png"]
+        },
+        {
+            "value": "RedClock:1",
+            "name": "RedClock",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "like the sands\nthrough a red\nhourglass",
+            "images": ["RedClock.png"]
+        },
+        {
+            "value": "BlueClock:1",
+            "name": "BlueClock",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "sapphire sand\ntrickles down",
+            "images": ["BlueClock.png"]
+        },
+        {
+            "value": "GreenClock:1",
+            "name": "GreenClock",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "tick tock\ntick tock",
+            "images": ["GreenClock.png"]
+        },
+        {
+            "value": "ProgressiveSword:1",
+            "name": "ProgressiveSword",
+            "count": 4,
+            "placed": 0,
+            "icon": {
+                "icon":"akar-icons:sword"
+            },
+            "pretty_name": "Progressive Sword",
+            "tablet_text": "a better copy\nof your sword\nfor your time",
+            "images": ["Lvl1sword.png", "Lvl2sword.png", "Lvl3sword.png", "Lvl4sword.png"]
+        },
+        {
+            "value": "ProgressiveShield:1",
+            "name": "ProgressiveShield",
+            "count": 3,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:shield-solid",
+                "color":"#aaa"
+            },
+            "pretty_name": "Progressive Shield",
+            "tablet_text": "have a better\ndefense in\nfront of you",
+            "images": ["Lvl1shield.png", "Lvl2shield.png", "Lvl3shield.png" ]
+        },
+        {
+            "value": "ProgressiveArmor:1",
+            "name": "ProgressiveArmor",
+            "count": 2,
+            "placed": 0,
+            "icon": {
+                "icon":"majesticons:t-shirt",
+                "color":"#aaa"
+            },
+            "pretty_name": "Progressive Armor",
+            "tablet_text": "time for a\nchange of\nclothes?",
+            "images": ["BlueMail.png", "RedMail.png"]
+        },
+        {
+            "value": "ProgressiveGlove:1",
+            "name": "ProgressiveGlove",
+            "count": 2,
+            "placed": 0,
+            "icon": {
+                "icon":"icon-park-twotone:clothes-gloves"
+            },
+            "pretty_name": "Progressive Glove",
+            "tablet_text": "a way to lift\nheavier things",
+            "images": ["PowerGlove.png", "TitansMitts.png"]
+        },
+        {
+            "value": "ProgressiveBow:1",
+            "name": "ProgressiveBow",
+            "count": 2,
+            "placed": 0,
+            "icon": {
+                "icon":"mdi:bow-arrow",
+                "color":"#a60"
+            },
+            "pretty_name": "Progressive Bow",
+            "tablet_text": "You have\nchosen the\narcher class.",
+            "images": ["BowAndArrows.png"]
+        },
+        {
+            "value": "Triforce:1",
+            "name": "Triforce",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "\n   YOU WIN!",
+            "images": ["Triforce.png"]
+        },
+        {
+            "value": "TriforcePiece:1",
+            "name": "TriforcePiece",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "a yellow\ntriangle\nyou need this",
+            "images": ["TriforcePiece.png"]
+        },
+        {
+            "value": "MapA2:1",
+            "name": "MapA2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Ganon's Tower Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapD7:1",
+            "name": "MapD7",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Turtle Rock Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapD4:1",
+            "name": "MapD4",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Thieves Town Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapP3:1",
+            "name": "MapP3",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Tower of Hera Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapD5:1",
+            "name": "MapD5",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Ice Palace Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapD3:1",
+            "name": "MapD3",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Skull Woods Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapD6:1",
+            "name": "MapD6",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Misery Mire Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapD1:1",
+            "name": "MapD1",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Palace of Darkness Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapD2:1",
+            "name": "MapD2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Swamp Palace Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapA1:1",
+            "name": "MapA1",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapP2:1",
+            "name": "MapP2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Desert Palace Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapP1:1",
+            "name": "MapP1",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Eastern Palace Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapH1:1",
+            "name": "MapH1",
+            "count": 0,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "MapH2:1",
+            "name": "MapH2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:map-line"
+            },
+            "pretty_name": "Hyrule Castle Map",
+            "tablet_text": "You can now\nfind your way\nhome!",
+            "images": ["Map.png"]
+        },
+        {
+            "value": "CompassA2:1",
+            "name": "CompassA2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Ganon's Tower Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassD7:1",
+            "name": "CompassD7",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Turtle Rock Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassD4:1",
+            "name": "CompassD4",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Thieves Town Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassP3:1",
+            "name": "CompassP3",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Tower of Hera Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassD5:1",
+            "name": "CompassD5",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Ice Palace Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassD3:1",
+            "name": "CompassD3",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Skull Woods Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassD6:1",
+            "name": "CompassD6",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Misery Mire Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassD1:1",
+            "name": "CompassD1",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Palace of Darkness Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassD2:1",
+            "name": "CompassD2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Swamp Palace Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassA1:1",
+            "name": "CompassA1",
+            "count": 0,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassP2:1",
+            "name": "CompassP2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Desert Palace Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassP1:1",
+            "name": "CompassP1",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"eos-icons:compass",
+                "color":"#05a"
+            },
+            "pretty_name": "Eastern Palace Compass",
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassH1:1",
+            "name": "CompassH1",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "CompassH2:1",
+            "name": "CompassH2",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Now you know\nwhere the boss\nhides!",
+            "images": ["Compass.png"]
+        },
+        {
+            "value": "BigKeyA2:1",
+            "name": "BigKeyA2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Ganon's Tower Big Key",
+            "tablet_text": "The big key\nof evil's bane",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyD7:1",
+            "name": "BigKeyD7",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Turtle Rock Big Key",
+            "tablet_text": "The big key\nof terrapins",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyD4:1",
+            "name": "BigKeyD4",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Thieves Town Big Key",
+            "tablet_text": "The big key\nof rogues",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyP3:1",
+            "name": "BigKeyP3",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Tower of Hera Big Key",
+            "tablet_text": "The big key\nto moldorm's\nheart",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyD5:1",
+            "name": "BigKeyD5",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Ice Palace Big Key",
+            "tablet_text": "A frozen\nbig key\nrests here",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyD3:1",
+            "name": "BigKeyD3",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Skull Woods Big Key",
+            "tablet_text": "The big key\nof the dark\nforest",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyD6:1",
+            "name": "BigKeyD6",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Misery Mire Big Key",
+            "tablet_text": "The big key\nto Vitreous",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyD1:1",
+            "name": "BigKeyD1",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Palace of Darkness Big Key",
+            "tablet_text": "Hammeryump\nwith this\nbig key",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyD2:1",
+            "name": "BigKeyD2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Swamp Palace Big Key",
+            "tablet_text": "The big key\nto the swamp",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyA1:1",
+            "name": "BigKeyA1",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Okay, this big\nkey doesn't\nreally exist",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyP2:1",
+            "name": "BigKeyP2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Desert Palace Big Key",
+            "tablet_text": "Sand spills\nout of this\nbig key",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyP1:1",
+            "name": "BigKeyP1",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"clarity:key-solid",
+                "color":"#da0"
+            },
+            "pretty_name": "Eastern Palace Big Key",
+            "tablet_text": "The big key\nof the east",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyH1:1",
+            "name": "BigKeyH1",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "You should\nhave got this\nfrom a guard",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "BigKeyH2:1",
+            "name": "BigKeyH2",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "You should\nhave got this\nfrom a guard",
+            "images": ["BigKey.png"]
+        },
+        {
+            "value": "KeyH2:1",
+            "name": "KeyH2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Hyrule Castle Small Key",
+            "tablet_text": "The key to\nthe castle",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyH1:1",
+            "name": "KeyH1",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "The key to\nthe castle",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyP1:1",
+            "name": "KeyP1",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Okay, this\nkey doesn't\nreally exist",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyP2:1",
+            "name": "KeyP2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Desert Palace Small Key",
+            "tablet_text": "Sand spills\nout of this\nsmall key",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyA1:1",
+            "name": "KeyA1",
+            "count": 2,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Castle Tower Small Key",
+            "tablet_text": "Agahnim\nhalfway\nunlocked",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyD2:1",
+            "name": "KeyD2",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Swamp Palace Small Key",
+            "tablet_text": "Access to\nthe swamp\nis granted",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyD1:1",
+            "name": "KeyD1",
+            "count": 6,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Palace of Darkness Small Key",
+            "tablet_text": "A small key\nthat steals\nlight",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyD6:1",
+            "name": "KeyD6",
+            "count": 3,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Misery Mire Small Key",
+            "tablet_text": "The small key\nto Vitreous",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyD3:1",
+            "name": "KeyD3",
+            "count": 3,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Skull Woods Small Key",
+            "tablet_text": "The small key\nof the dark\nforest",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyD5:1",
+            "name": "KeyD5",
+            "count": 2,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Ice Palace Small Key",
+            "tablet_text": "A frozen\nsmall key\nrests here",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyP3:1",
+            "name": "KeyP3",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Tower of Hera Small Key",
+            "tablet_text": "The key\nto moldorm's\nbasement",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyD4:1",
+            "name": "KeyD4",
+            "count": 1,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Thieves Town Small Key",
+            "tablet_text": "The small key\nof rogues",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyD7:1",
+            "name": "KeyD7",
+            "count": 4,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Turtle Rock Small Key",
+            "tablet_text": "The small key\nof terrapins",
+            "images": ["SmallKey.png"]
+        },
+        {
+            "value": "KeyA2:1",
+            "name": "KeyA2",
+            "count": 4,
+            "placed": 0,
+            "icon": {
+                "icon":"bx:key",
+                "color":"#da0"
+            },
+            "pretty_name": "Ganon's Tower Small Key",
+            "tablet_text": "The small key\nof evil's bane",
+            "images": ["SmallKey.png"]
+        }
+    ],
+    "prizes": [
+        {
+            "value": "auto_fill",
+            "name": "Random",
+            "placed": 0
+        },
+        {
+            "value": "PendantOfCourage:1",
+            "name": "PendantOfCourage",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Courage for\nthose who\nalready had it"
+        },
+        {
+            "value": "PendantOfWisdom:1",
+            "name": "PendantOfWisdom",
+            "count": 0,
+            "placed": 0,
+            "tablet_text": "Wisdom for\nthose who\nalready had it"
+        },
+        {
+            "value": "PendantOfPower:1",
+            "name": "PendantOfPower",
+            "count": 0,
+            "placed": 0,
+            "tablet": "Power for\nthose who\nalready had it"
+        },
+        {
+            "value": "Crystal1:1",
+            "name": "Crystal1",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "Crystal2:1",
+            "name": "Crystal2",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "Crystal3:1",
+            "name": "Crystal3",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "Crystal4:1",
+            "name": "Crystal4",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "Crystal5:1",
+            "name": "Crystal5",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "Crystal6:1",
+            "name": "Crystal6",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "Crystal7:1",
+            "name": "Crystal7",
+            "count": 0,
+            "placed": 0
+        }
+    ],
+    "medallions": [
+        {
+            "value": "auto_fill",
+            "name": "Random",
+            "placed": 0
+        },
+        {
+            "value": "Bombos:1",
+            "name": "Bombos",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "Ether:1",
+            "name": "Ether",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "Quake:1",
+            "name": "Quake",
+            "count": 0,
+            "placed": 0
+        }
+    ],
+    "bottles": [
+        {
+            "value": "auto_fill",
+            "name": "Random",
+            "placed": 0
+        },
+        {
+            "value": "Bottle:1",
+            "name": "Bottle",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "BottleWithRedPotion:1",
+            "name": "BottleWithRedPotion",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "BottleWithGreenPotion:1",
+            "name": "BottleWithGreenPotion",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "BottleWithBluePotion:1",
+            "name": "BottleWithBluePotion",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "BottleWithBee:1",
+            "name": "BottleWithBee",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "BottleWithFairy:1",
+            "name": "BottleWithFairy",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "BottleWithGoldBee:1",
+            "name": "BottleWithGoldBee",
+            "count": 0,
+            "placed": 0
+        }
+    ],
+    "droppables": [
+        {
+            "value": "auto_fill",
+            "name": "Random",
+            "placed": 0
+        },
+        {
+            "value": "Bee",
+            "name": "sprite.Bee",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "BeeGood",
+            "name": "sprite.BeeGood",
+            "count": 0,
+            "placed": 0
+        },
+        {
+            "value": "Heart",
+            "name": "sprite.Heart",
+            "count": 13,
+            "placed": 0
+        },
+        {
+            "value": "RupeeGreen",
+            "name": "sprite.RupeeGreen",
+            "count": 9,
+            "placed": 0
+        },
+        {
+            "value": "RupeeBlue",
+            "name": "sprite.RupeeBlue",
+            "count": 7,
+            "placed": 0
+        },
+        {
+            "value": "RupeeRed",
+            "name": "sprite.RupeeRed",
+            "count": 6,
+            "placed": 0
+        },
+        {
+            "value": "BombRefill1",
+            "name": "sprite.BombRefill1",
+            "count": 7,
+            "placed": 0
+        },
+        {
+            "value": "BombRefill4",
+            "name": "sprite.BombRefill4",
+            "count": 1,
+            "placed": 0
+        },
+        {
+            "value": "BombRefill8",
+            "name": "sprite.BombRefill8",
+            "count": 2,
+            "placed": 0
+        },
+        {
+            "value": "MagicRefillSmall",
+            "name": "sprite.MagicRefillSmall",
+            "count": 6,
+            "placed": 0
+        },
+        {
+            "value": "MagicRefillFull",
+            "name": "sprite.MagicRefillFull",
+            "count": 3,
+            "placed": 0
+        },
+        {
+            "value": "ArrowRefill5",
+            "name": "sprite.ArrowRefill5",
+            "count": 5,
+            "placed": 0
+        },
+        {
+            "value": "ArrowRefill10",
+            "name": "sprite.ArrowRefill10",
+            "count": 3,
+            "placed": 0
+        },
+        {
+            "value": "Fairy",
+            "name": "sprite.Fairy",
+            "count": 1,
+            "placed": 0
+        }
+    ]
+}
