@@ -32,8 +32,8 @@
                 ancient script. If you find an inscription you cannot read,
                 use this book and its meaning will become clear."
                 <br><br>
-                The Book of Mudora is an ancient Hylian text that Link
-                used to translate ancient Hylian. On this site, you can
+                Link used the ancient Hylian text the Book of Mudora to translate
+                old tablets and advance his quest. On this site, you can
                 translate the cryptic tablet and pedestal hints from
                 A Link to the Past Randomizer!
                 <br><br>

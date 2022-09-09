@@ -1858,7 +1858,8 @@
             "name": "Random",
             "placed": 0,
             "pretty_name": "Auto Fill",
-            "tablet_text": "Don't waste\nyour time!"
+            "tablet_text": "Don't waste\nyour time!",
+            "images": ["Unknown.png"]
         },
         {
             "value": "BottleWithRandom:1",
@@ -1894,7 +1895,7 @@
             "count": 0,
             "placed": 0,
             "tablet_text": "A pathetic\nsword rests\nhere!",
-            "images": ["Lvl1sword.png"]
+            "images": ["Lvl1sword.png","Lvl1shield.png"]
         },
         {
             "value": "MasterSword:1",
@@ -2532,7 +2533,7 @@
             "count": 0,
             "placed": 0,
             "tablet_text": "Release me\nso I can go\nbzzzzz!",
-            "images": ["BottleWithBee.png"]
+            "images": ["BottleWithGoldBee.png"]
         },
         {
             "value": "OcarinaActive:1",
@@ -2622,7 +2623,7 @@
             "count": 0,
             "placed": 0,
             "tablet_text": "This is not\nreally worth\nyour time",
-            "images": ["Rupoor.png"]
+            "images": []
         },
         {
             "value": "RedClock:1",
@@ -2630,7 +2631,7 @@
             "count": 0,
             "placed": 0,
             "tablet_text": "like the sands\nthrough a red\nhourglass",
-            "images": ["RedClock.png"]
+            "images": []
         },
         {
             "value": "BlueClock:1",
@@ -2638,7 +2639,7 @@
             "count": 0,
             "placed": 0,
             "tablet_text": "sapphire sand\ntrickles down",
-            "images": ["BlueClock.png"]
+            "images": []
         },
         {
             "value": "GreenClock:1",
@@ -2646,7 +2647,7 @@
             "count": 0,
             "placed": 0,
             "tablet_text": "tick tock\ntick tock",
-            "images": ["GreenClock.png"]
+            "images": []
         },
         {
             "value": "ProgressiveSword:1",
@@ -2709,7 +2710,7 @@
             },
             "pretty_name": "Progressive Bow",
             "tablet_text": "You have\nchosen the\narcher class.",
-            "images": ["BowAndArrows.png"]
+            "images": ["BowAndArrows.png","BowAndSilverArrows.png"]
         },
         {
             "value": "Triforce:1",
