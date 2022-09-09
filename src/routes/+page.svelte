@@ -24,7 +24,7 @@
         </h1>
     </div>
     <div class="flex flex-row justify-center h-max">
-        <div class="rounded-lg m-4 p-4 drop-shadow-2xl basis-3/4 bg-[url('/paper.jpg')] bg-cover min-h-min border-4 border-primary-500">
+        <div class="rounded-lg m-4 p-4 drop-shadow-2xl basis-3/4 bg-[url('paper.jpg')] bg-cover min-h-min border-4 border-primary-500">
             <p class="p-4 m-8 first-line:uppercase first-line:tracking-widest text-xl
             first-letter:text-7xl first-letter:font-bold first-letter:text-primary-500
             first-letter:mr-3 leading-relaxed first-letter:float-left font-serif">
